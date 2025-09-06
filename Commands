@@ -1,0 +1,15 @@
+Docker Commands:
+================
+
+1. docker run <image-name>
+    runs the image if present on local machine, else downloads from docker library
+
+2. docker images
+    shows all images currently present on the system
+
+
+Docker Terms:
+=============
+
+1. Image Creation
+2. Container Orchestration
